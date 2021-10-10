@@ -13,7 +13,7 @@ int main(){
     int iteracao=0, troca=0, comparacao=0;
 
     //abre o arquivo com os nros
-    arquivo = fopen("arquivo_100.txt", "r");
+    arquivo = fopen("arquivo_200000.txt", "r");
 
     //le oo arquivo com os nros
     fscanf(arquivo, "%d", &tamanho);
