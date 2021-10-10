@@ -67,7 +67,7 @@ int main(){
     printf("COMPARACOES: %d\n", comparacao);
     printf("TROCAS: %d\n", troca);
 
-    printf("VETOR ORDENADO: sai_bubbleSort.txt\n");
+    printf("VETOR ORDENADO: sai_selectionSort.txt\n");
     arquivo = fopen("sai_selectionSort.txt", "w");
 
     for(i=0; i<tamanho; i++){
