@@ -44,7 +44,7 @@ int main(){
     for(j=0;j<tamanho-1;j++){ //iteracao
       iteracao++;
       comparacao++;
-      if(vetor[j]>vetor[j+1]){ //comaracao
+      if(vetor[j]>vetor[j+1]){ //comparacao
         aux = vetor[j]; //troca
         vetor[j] = vetor[j+1];
         vetor [j+1] = aux;
