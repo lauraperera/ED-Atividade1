@@ -1,4 +1,5 @@
-# ordenacaoDeVetores
- Repositório pra armazenar meus códigos desenvolvidos pra estudar diferentes tipos de Algoritmos de Ordenação de vetores em C para a cadeira de Estrutura de Dados - TADS IFSul
+# Disciplina Estrutura de Dados - TADS
+## Atividade 1
 
- * Bubble Sort: algoritmo lê arquivo com vetor preenchido, realiza a ordenação e escreve o vetor ordenado em um novo arquivo. Além disso, retorna o tempo que o programa levou para ordenar o vetor, o número de iterações, comparações e trocas até o vetor estar completamente ordenado.
+- [x] Preencher uma tabela para 100, 100.000 e 200.000 de elementos (não ordenados), mostrando TEMPO(ms), ITERAÇÕES, COMPARAÇÕES e TROCAS para cada algoritmo;
+- [x] Rodar novamente os testes acima, mas utilizando um vetor já ordenado. Preencher novas tabelas para cada conjunto de valores (100, 100.000 e 200.000)
